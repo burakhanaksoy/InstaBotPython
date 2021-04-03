@@ -1,4 +1,4 @@
-# PythonSelenium
+# InstaBotPython
 
 # Introduction
 Connects to instagram and finds out who's not following you.
