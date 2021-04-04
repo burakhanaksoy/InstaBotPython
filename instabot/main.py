@@ -92,7 +92,7 @@ class Instabot:
         diff = list(set(following) - set(followers))
         print(f'Following no: {len(following)}')
         print(f'Followers no: {len(followers)}')
-        print(f'Not following you no: {len(diff)}')
+        print(f'Not following you no: {len(followers) - len(following)}')
         print(
             f'Not following you --> {diff}')
 
